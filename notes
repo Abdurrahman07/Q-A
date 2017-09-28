@@ -1,0 +1,20 @@
+admin see all users and if clicked any user would see his questions and answers for that user 
+admin only could add questions 
+admin only could delete user 
+admin edit his profile 
+admin has one click to restart points of month 
+
+
+
+senario
+
+admin will login and will go to the route /admin
+
+-table with all users with profiles and points and deletes /admin/user/1
+-button to restart all of the points /admin/restart-points
+-edit admin profile  /admin/profile
+
+
+- intro page with the best points of users and login , resgister
+- you should be user to see questions 
+- edit user profile and know points of month
